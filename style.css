@@ -1,0 +1,38 @@
+#body_style{
+    color: white;
+    background-color: #111621;
+}
+
+#title{
+    text-align: center;
+}
+
+#articles, .posts{
+    text-align: center;
+    color: black;
+    margin: 8px;
+    border: 5px solid;
+    border-color: #384155;
+    border-radius: 5px;
+    background-color: #bdbfc6;
+}
+.art_title{
+
+    color: black;
+    margin: 8px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+.art_text{
+
+    color: black;
+    margin: 8px;
+    margin-top: 0px;
+    font-size: 14px;
+}
+
+#footer_style li a{
+    color: white;
+
+}
